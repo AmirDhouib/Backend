@@ -1,0 +1,15 @@
+com\mass\RentMeHome\dao\AccommodationDao.class
+com\mass\RentMeHome\service\ImageService.class
+com\mass\RentMeHome\controller\ImageController.class
+com\mass\RentMeHome\model\Owner.class
+com\mass\RentMeHome\controller\OwnerController.class
+com\mass\RentMeHome\model\Student.class
+com\mass\RentMeHome\controller\StudentController.class
+com\mass\RentMeHome\dao\OwnerDao.class
+com\mass\RentMeHome\RentMeHomeApplication.class
+com\mass\RentMeHome\service\OwnerService.class
+com\mass\RentMeHome\service\AccommodationService.class
+com\mass\RentMeHome\service\StudentService.class
+com\mass\RentMeHome\model\Accommodation.class
+com\mass\RentMeHome\controller\AccommodationController.class
+com\mass\RentMeHome\dao\StudentDao.class
